@@ -15,5 +15,10 @@ npm install
 npm run dev
 ```
 
-3. Open http://localhost:3000
+3. Install Vite React plugin:
+```bash
+npm install -D @vitejs/plugin-react
+```
+
+4. Open http://localhost:3000
 
